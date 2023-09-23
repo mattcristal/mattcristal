@@ -2,8 +2,6 @@
 
 I'm Matteo, a **Data Engineer** with a passion for Python 🐍
 
-Currently, I am experimenting with Rust 🦀 
-
 I am from 🇮🇹 and currently based in 🇳🇱
 
 ### Tech Stack
