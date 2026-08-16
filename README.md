@@ -4,7 +4,7 @@ I'm Matteo, a **Data Engineer** with a passion for Python 🐍
 
 Originally from 🇮🇹 but now living in 🇳🇱
 
-Contributor to:
+**Contributor** to:
 
 - [dbt-bouncer](https://github.com/godatadriven/dbt-bouncer) - a linter for dbt
 - [dbt-date](https://github.com/godatadriven/dbt-date) - a dbt package providing date and time macros.
